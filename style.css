@@ -1,0 +1,87 @@
+body {
+    font-family: "Oxanium", serif;
+}
+
+.bgorange {
+    background-color: #FF9900;
+}
+
+.textorange {
+    color: #FF9900;
+}
+
+.bggrey{
+    background-color: #F4F4F4;
+}
+
+.container form input {
+    width: 287px;
+}
+
+.carousel {
+    margin-top: 90px;
+}
+
+.card {
+    border: none;
+}
+
+.about .container {
+    padding: 28px 0;
+}
+
+.accor {
+    margin-top: 72px;
+}
+
+.accordion-item {
+    background-color: #F5F5F5;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #FF9900;
+    color: white;
+}
+
+.accordion-button:focus {
+    border-color: #FF9900;
+}
+
+.footer {
+    margin-top: 61px;
+}
+
+
+
+
+
+
+
+.link {
+    margin-top: 130px;
+}
+
+.dm.active {
+    background-color: #FF9900 !important;
+    color: white !important;
+    border-color: #FF9900 !important;
+    outline: none;
+}
+
+.pay.active {
+    background-color: #dddddd !important;
+    border-color: #272727 !important;
+    outline: none;
+}
+
+.login {
+    color: white;
+    background-color: #FF9900 !important;
+    transition: all 0.2s linear;
+}
+
+.login:hover {
+    color: #FF9900 !important;
+    background-color: white !important;
+    border: 1px solid #FF9900 !important;
+}
